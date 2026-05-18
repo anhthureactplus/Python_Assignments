@@ -2,7 +2,6 @@
 main.py — Assignment 7: Sentence Representation Using One-Hot
 
 Tái sử dụng package `encoder` từ Assignment 6.
-Không viết lại logic — đây là sức mạnh của OOP: code đã có, dùng lại.
 
 Workflow:
     "I love NLP"
