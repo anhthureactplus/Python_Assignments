@@ -6,7 +6,7 @@ chỉ cần đổi strategy trong config là có hành vi làm sạch khác nhau
 KHÔNG cần sửa bất kỳ dòng nào trong VietnameseTextProcessor.preprocess().
 """
 
-from processor import (
+from assignments.phase_1.week_2.assignment2.processor.processor import (
     VietnameseTextProcessor,
     ProcessorConfig,
     BasicCleanStrategy,
