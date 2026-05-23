@@ -1,4 +1,4 @@
-from bow import (
+from assignments.phase_1.week_2.assignment5.bow.bow import (
     BoWVectorizer,
     BoWConfig,
     CountBoWStrategy,
