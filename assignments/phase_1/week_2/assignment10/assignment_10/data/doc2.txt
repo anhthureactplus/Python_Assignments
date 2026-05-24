@@ -1,0 +1,1 @@
+A search engine retrieves documents by preprocessing text, computing TF-IDF vectors, measuring cosine similarity, and ranking results.

@@ -1,0 +1,1 @@
+Object oriented programming organizes software into classes, objects, configuration files, utilities, and interchangeable strategies.
